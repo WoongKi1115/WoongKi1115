@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+## 안녕하세요!!! 저는 나웅기입니다!!
+만나서 반갑습니다. 잘 부탁드립니다!!
 **WoongKi1115/WoongKi1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
